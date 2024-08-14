@@ -3,7 +3,7 @@ This is an implementation of graph-coloring solution using the oscillatory neura
 
 This solution is implemented with Intel-LAVA Processes to define neurons and inter-neuron connections
 
-Dependencies - lava-optimization
+Dependencies - lava-optimization (See installation steps here: https://github.com/SNNalgo/lava-optimization)
 
 Description:
 * graph_col_dimacs_reader.py - reads DIMACS format graphs
